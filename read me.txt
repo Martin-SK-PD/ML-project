@@ -1,0 +1,21 @@
+Projekt pozostáva z nasledujúcich súborov a priečinkov:
+
+- Projekt final.ipynb
+	obsahuje zdrojové kódy a príslušné komentáre kódu projektu (aké knižnice je potrebné mať nainštalované,
+	ktorá časť načítava 3D modely, ktorá časť spúšťa trénovanie modelov...).
+
+- 3d meshe/
+	Priečinok obsahuje 3D modely, ktoré sa používajú na trénovanie a následnú validáciu modelov strojového učenia.
+    
+- meshe na ukazku/
+	Priečinok obsahuje niekoľko príkladových 3D meshov, ktoré používam na demonštráciu schopností natrénovaných modelov.
+
+
+
+Inštrukcie pre spustenie:
+
+- Uistite sa, že máte nainštalované potrebné knižnice uvedené na začiatku "Projekt final.ipynb"
+- Stiahnite príslušné priečinky s 3D modelmi  
+- Otvorte súbor "Projekt final.ipynb" v kompatibilnom prostredí (napríklad VS Code, Google Colab...)
+
+
