@@ -14,8 +14,7 @@ Projekt pozostáva z nasledujúcich súborov a priečinkov:
 
 Inštrukcie pre spustenie:
 
-- Uistite sa, že máte nainštalované potrebné knižnice uvedené na začiatku "Projekt final.ipynb"
-- Stiahnite príslušné priečinky s 3D modelmi  
+- Stiahnite si súbor "Projekt final.ipynb" a  príslušné priečinky s 3D modelmi 
 - Otvorte súbor "Projekt final.ipynb" v kompatibilnom prostredí (napríklad VS Code, Google Colab...)
-
+- Uistite sa, že máte nainštalované potrebné knižnice uvedené na začiatku "Projekt final.ipynb"
 
